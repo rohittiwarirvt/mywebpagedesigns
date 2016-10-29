@@ -1,0 +1,19 @@
+{
+  "name": "mywebpagedesigns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-rohittiwarirvt:rohittiwarirvt/mywebpagedesigns.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
