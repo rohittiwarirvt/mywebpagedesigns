@@ -1,0 +1,11 @@
+header {
+  max-width: 1340px;
+}
+header > div {
+  width: 50%;
+  float: left;
+}
+header > div > div {
+  float: right;
+  margin-left: 20px;
+}
