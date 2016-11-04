@@ -9,9 +9,9 @@
     $stateProvider
     .state('dashboard', {
       url: '/dashboard',
-      templateUrl: 'tpl/dashboard.html',
-      Controller: 'Dashboard',
-      ControllerAs: 'db'
+      templateUrl: 'dashboard/tpl/dashboard.html',
+      controller: 'Dashboard',
+      controllerAs: 'db'
       });
   }
 

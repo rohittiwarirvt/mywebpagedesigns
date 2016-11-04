@@ -4,9 +4,9 @@
   .module('app.core')
   .config(appRun);
 
-  appRun.$inject = ['$stateProvider'];
-  function appRun($stateProvider) {
-    $stateProvider.otherwise('/dashboard');
+  appRun.$inject = ['$urlRouterProvider'];
+  function appRun($urlRouterProvider) {
+   // $urlRouterProvider.otherwise('/dashboard');
   }
 
 })();
