@@ -1,3 +1,11 @@
 @import "compass";
 @import "compass/reset";
+@import "partials/variables";
+@import "partials/mixins";
 @import "partials/normalize";
+@import "partials/placeholders";
+@import "partials/fonts";
+@import "partials/base";
+@import "partials/body";
+@import "partials/layout";
+@import "partials/modules";
