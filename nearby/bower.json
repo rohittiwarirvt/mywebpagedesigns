@@ -1,0 +1,24 @@
+{
+  "name": "nearby",
+  "authors": [
+    "Rohit Tiwari <rohittiwarirvt@gmail.com>"
+  ],
+  "description": "replicating nearby website",
+  "main": "index",
+  "keywords": [
+    "nearby"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
